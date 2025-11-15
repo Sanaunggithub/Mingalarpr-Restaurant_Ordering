@@ -46,10 +46,10 @@ The system simulates a real-life ordering process with a smooth multi-screen lay
 ![Home Screen](./Home.png)
 
 ### 🧾 Order Screen
-![Order Screen](./Order.png)
+<img src="./Order.png" width="300"/>
 
 ### 📄 Receipt Screen
-![Receipt Screen](./Receipt.jpg)
+<img src="./Receipt.png" width="300"/>
 
 ---
 
