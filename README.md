@@ -42,18 +42,18 @@ The system simulates a real-life ordering process with a smooth multi-screen lay
 
 ## 🖼️ Screenshots
 
-### 🏠 Home Screen
+### Home Screen
 ![Home Screen](./Home.png)
 
-### 🧾 Order Screen
+###  Order Screen
 <img src="./Order.png" width="300"/>
 
-### 📄 Receipt Screen
+###  Receipt Screen
 <img src="./Receipt.jpg" width="300"/>
 
 ---
 
-## 🖼️ Application Structure
+## Application Structure
 
 1. **Menu Screen**
    - Food and beverage list  
