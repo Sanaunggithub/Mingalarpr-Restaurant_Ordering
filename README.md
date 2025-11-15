@@ -69,9 +69,3 @@ The system simulates a real-life ordering process with a smooth multi-screen lay
 
 ---
 
-## ✅ Conclusion
-
-This Restaurant Ordering System demonstrates how **Python + Tkinter** can create practical, real-world applications with a **professional and user-friendly interface**. It streamlines the ordering process, provides clear visual feedback, and ensures accuracy in billing — making it ideal for small to medium-sized food service environments.
-
----
-
